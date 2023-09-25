@@ -3,4 +3,4 @@ Implementing a heuristic algorithm to solve a combinatorial optimization problem
 
 Developed a method to create paths between elite solutions collected with the application of the GRASP.
 Paths are obtained in a similar way like standard local search but with a specific target (guiding solution), as determined by the Path Relinking methodology.
-Finally, compared the results obtained with GRASP with and without Path Relinking.
+Finally, compared the results obtained using GRASP with and without Path Relinking.
